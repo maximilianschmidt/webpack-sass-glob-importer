@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/maximilianschmidt/webpack-sass-glob-importer/issues"
   },
-  "homepage": "https://github.com/maximilianschmidt/webpack-sass-glob-importer#readme"
+  "homepage": "https://github.com/maximilianschmidt/webpack-sass-glob-importer#readme",
+  "dependencies": {
+    "glob": "^10.3.1"
+  }
 }
