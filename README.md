@@ -7,7 +7,7 @@ A custom loader for Webpack that allows glob import in Dart Sass.
 ## Installation
 
 ```console
-npm install --save-dev postcss-loader postcss
+npm install --save-dev webpack-sass-glob-importer
 ```
 
 Then add the plugin to your `webpack` config. For example:
